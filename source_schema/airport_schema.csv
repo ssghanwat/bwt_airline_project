@@ -1,0 +1,14 @@
+airport_id,integer,special_char
+name,string,special_char
+city,string,special_char
+country,string,special_char
+iata,string,special_char
+icao,string,special_char
+latitude,decimal
+longitude,decimal
+altitude,decimal
+timezone,string
+dst,string
+tz_database_time_zone,string
+type,string
+source,string
